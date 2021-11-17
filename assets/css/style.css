@@ -60,6 +60,7 @@
 .card:hover{
     background-color: grey;
     color: whitesmoke;
+    curson:pointer;
 }
 .card img{
     display: block;
